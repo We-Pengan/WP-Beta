@@ -22,14 +22,14 @@
 
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: ["1243850122614407188", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  status: 'WP Beta test',
   commandsDir: './commands',
   language: "en",
-  embedColor: "00fbff",
+  embedColor: "76d2f3",
   errorLog: "",
 
 
